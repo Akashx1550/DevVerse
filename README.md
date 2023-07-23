@@ -19,7 +19,7 @@ The project is built using React.js, Material-UI for icons, and CodeMirror for t
 
 ## Demo
 
-You can try out the Live Code Editor by visiting the [live demo link](akashx1550.github.io/DevVerse/).
+You can try out the Live Code Editor by visiting the [live demo link]((https://akashx1550.github.io/DevVerse/)).
 
 ## Dependencies
 The project uses the following main dependencies:
