@@ -1,6 +1,6 @@
 # DevVerse - Live Code Editor
 
-![Live Code Editor Screenshot](screenshot.png)
+![Screenshot](Demo.png)
 
 ## Overview
 
