@@ -24,9 +24,9 @@ You can try out the Live Code Editor by visiting the [live demo link](https://ak
 ## Dependencies
 The project uses the following main dependencies:
 
-React.js: A JavaScript library for building user interfaces. /n
-Material-UI: A popular React UI framework for icons and styles.
-CodeMirror: A versatile code editor component for web applications.
+- React.js: A JavaScript library for building user interfaces.
+- Material-UI: A popular React UI framework for icons and styles.
+- CodeMirror: A versatile code editor component for web applications.
 For a full list of dependencies, please refer to the package.json file.
 
 ## Contributing
