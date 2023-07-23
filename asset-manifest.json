@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DevVerse/static/css/main.5720ea93.css",
+    "main.js": "/DevVerse/static/js/main.159682e3.js",
+    "static/js/787.eebe8971.chunk.js": "/DevVerse/static/js/787.eebe8971.chunk.js",
+    "index.html": "/DevVerse/index.html",
+    "main.5720ea93.css.map": "/DevVerse/static/css/main.5720ea93.css.map",
+    "main.159682e3.js.map": "/DevVerse/static/js/main.159682e3.js.map",
+    "787.eebe8971.chunk.js.map": "/DevVerse/static/js/787.eebe8971.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5720ea93.css",
+    "static/js/main.159682e3.js"
+  ]
+}
