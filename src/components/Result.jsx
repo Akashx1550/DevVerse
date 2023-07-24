@@ -6,6 +6,11 @@ import { Box, styled } from '@mui/material';
 
 const Container = styled(Box)`
     height: 41vh;
+
+    @media only screen and (max-width: 600px){
+
+        height: 50vh;
+    }
 `
 
 const Result = () => {

@@ -13,6 +13,18 @@ import { CloseFullscreen } from '@mui/icons-material';
 
 import '../App.css';
 
+
+const SizeBtn = styled(CloseFullscreen)`
+
+    @media (max-width:600px) {
+        display:none;
+    }
+
+    @media (max-width:820px) {
+        display:none;
+    }
+`
+
 const Container = styled(Box)`
     flex-grow: 1;
     flex-basic: 0;
@@ -64,11 +76,11 @@ const Editor = ({ heading, language, value, onChange, icon, color }) => {
                     </Box>
                     {heading}
                 </Heading>
-                <CloseFullscreen 
+                <SizeBtn>
                     fontSize="small"
                     style={{ alignSelf: 'center'}}
                     onClick={() => setOpen(prevState => !prevState)}
-                />
+                </SizeBtn>
             </Header>
             <ControlledEditor 
                 onBeforeChange={handleChange}

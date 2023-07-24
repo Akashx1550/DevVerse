@@ -11,6 +11,18 @@ const Container = styled(Box)`
     background-color: #060606;
     height: 55vh;
     display: flex;
+
+    @media only screen and (max-width: 600px){
+
+        height: 100%;
+        flex-direction: column;
+    }
+
+    @media only screen and (max-width: 820px){
+
+        height: 100%;
+        flex-direction: column;
+    }
 `
 
 const Code = () => {
